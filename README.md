@@ -1,4 +1,4 @@
-# IDbSS
+# IDbSV
 ## An Open-Access Repository for Monitoring SARS-CoV-2 Variations and Evolution
 
 ### PMID: 34966754 
